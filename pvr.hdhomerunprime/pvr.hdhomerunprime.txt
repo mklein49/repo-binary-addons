@@ -1,1 +1,1 @@
-pvr.hdhomerunprime https://github.com/kodi-pvr/pvr.hdhomerun master
+pvr.hdhomerunprime http://172.16.1.145/mklein49/pvr.hdhomerunprime.git master
