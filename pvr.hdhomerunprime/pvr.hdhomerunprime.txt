@@ -1,1 +1,1 @@
-pvr.hdhomerunprime http://172.16.1.145/mklein49/pvr.hdhomerunprime.git master
+pvr.hdhomerunprime git@172.16.1.145:mklein49/pvr.hdhomerunprime.git master
